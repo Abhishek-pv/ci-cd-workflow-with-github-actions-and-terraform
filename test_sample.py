@@ -1,5 +1,5 @@
 def add(a, b):
-    return a - b
+    return a + b
 
 
 def sub(a, b):
@@ -27,4 +27,4 @@ def test_div():
 
 
 def test_mul():
-    assert mul(2, 2) == 4
+    assert mul(2, 2) ==      4
