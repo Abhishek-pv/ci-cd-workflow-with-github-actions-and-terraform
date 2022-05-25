@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
   paths:
-      - "test_folder/**.py"
+    - "test_folder/**.py"
 
 jobs:
   example-workflow:
