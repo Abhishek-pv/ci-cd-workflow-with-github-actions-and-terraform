@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - "test_folder/**.py"
+      - "test_folder/**"
 
 jobs:
   example-workflow:
