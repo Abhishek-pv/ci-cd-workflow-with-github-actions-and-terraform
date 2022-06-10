@@ -1,1 +1,1 @@
-# multi_environment_deployment_using_gcp
+# multi_environment_deployment_of_gcp_resources_using_terraform
